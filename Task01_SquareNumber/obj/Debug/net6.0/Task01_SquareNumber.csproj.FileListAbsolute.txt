@@ -1,0 +1,15 @@
+D:\my dox\repositories\GBC#\Task01_SquareNumber\bin\Debug\net6.0\Task01_SquareNumber.exe
+D:\my dox\repositories\GBC#\Task01_SquareNumber\bin\Debug\net6.0\Task01_SquareNumber.deps.json
+D:\my dox\repositories\GBC#\Task01_SquareNumber\bin\Debug\net6.0\Task01_SquareNumber.runtimeconfig.json
+D:\my dox\repositories\GBC#\Task01_SquareNumber\bin\Debug\net6.0\Task01_SquareNumber.dll
+D:\my dox\repositories\GBC#\Task01_SquareNumber\bin\Debug\net6.0\Task01_SquareNumber.pdb
+D:\my dox\repositories\GBC#\Task01_SquareNumber\obj\Debug\net6.0\Task01_SquareNumber.csproj.AssemblyReference.cache
+D:\my dox\repositories\GBC#\Task01_SquareNumber\obj\Debug\net6.0\Task01_SquareNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\my dox\repositories\GBC#\Task01_SquareNumber\obj\Debug\net6.0\Task01_SquareNumber.AssemblyInfoInputs.cache
+D:\my dox\repositories\GBC#\Task01_SquareNumber\obj\Debug\net6.0\Task01_SquareNumber.AssemblyInfo.cs
+D:\my dox\repositories\GBC#\Task01_SquareNumber\obj\Debug\net6.0\Task01_SquareNumber.csproj.CoreCompileInputs.cache
+D:\my dox\repositories\GBC#\Task01_SquareNumber\obj\Debug\net6.0\Task01_SquareNumber.dll
+D:\my dox\repositories\GBC#\Task01_SquareNumber\obj\Debug\net6.0\refint\Task01_SquareNumber.dll
+D:\my dox\repositories\GBC#\Task01_SquareNumber\obj\Debug\net6.0\Task01_SquareNumber.pdb
+D:\my dox\repositories\GBC#\Task01_SquareNumber\obj\Debug\net6.0\Task01_SquareNumber.genruntimeconfig.cache
+D:\my dox\repositories\GBC#\Task01_SquareNumber\obj\Debug\net6.0\ref\Task01_SquareNumber.dll
