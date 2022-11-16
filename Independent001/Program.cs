@@ -16,13 +16,13 @@ if (b == a * a);
      {
         Console.WriteLine("Первое число является квадратом второго");
     }
-        if (secondnumber == firstnumber * firstnumber)
+        else if (secondnumber == firstnumber * firstnumber)
     {
         Console.WriteLine("Второе число является квадратом первого");
     }
-        if (firstnumber != secondnumber * secondnumber)
+        else if (firstnumber != secondnumber * secondnumber)
         {
         Console.WriteLine("Первое число не является квадратом второго");
         }
-        if (secondnumber != firstnumber * firstnumber)
+        else if (secondnumber != firstnumber * firstnumber)
         Console.WriteLine("Второе число не является квадратом первого");
