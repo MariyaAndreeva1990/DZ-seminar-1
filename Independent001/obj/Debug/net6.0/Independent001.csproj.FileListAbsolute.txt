@@ -1,0 +1,15 @@
+D:\my dox\repositories\GBC#\Independent001\obj\Debug\net6.0\Independent001.csproj.AssemblyReference.cache
+D:\my dox\repositories\GBC#\Independent001\obj\Debug\net6.0\Independent001.GeneratedMSBuildEditorConfig.editorconfig
+D:\my dox\repositories\GBC#\Independent001\obj\Debug\net6.0\Independent001.AssemblyInfoInputs.cache
+D:\my dox\repositories\GBC#\Independent001\obj\Debug\net6.0\Independent001.AssemblyInfo.cs
+D:\my dox\repositories\GBC#\Independent001\obj\Debug\net6.0\Independent001.csproj.CoreCompileInputs.cache
+D:\my dox\repositories\GBC#\Independent001\bin\Debug\net6.0\Independent001.exe
+D:\my dox\repositories\GBC#\Independent001\bin\Debug\net6.0\Independent001.deps.json
+D:\my dox\repositories\GBC#\Independent001\bin\Debug\net6.0\Independent001.runtimeconfig.json
+D:\my dox\repositories\GBC#\Independent001\bin\Debug\net6.0\Independent001.dll
+D:\my dox\repositories\GBC#\Independent001\bin\Debug\net6.0\Independent001.pdb
+D:\my dox\repositories\GBC#\Independent001\obj\Debug\net6.0\Independent001.dll
+D:\my dox\repositories\GBC#\Independent001\obj\Debug\net6.0\refint\Independent001.dll
+D:\my dox\repositories\GBC#\Independent001\obj\Debug\net6.0\Independent001.pdb
+D:\my dox\repositories\GBC#\Independent001\obj\Debug\net6.0\Independent001.genruntimeconfig.cache
+D:\my dox\repositories\GBC#\Independent001\obj\Debug\net6.0\ref\Independent001.dll
