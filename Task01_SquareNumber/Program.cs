@@ -5,4 +5,4 @@ int number = Convert.ToInt32(input);
  
 int sqr = number * number;
 
-Console.WriteLine(number + "->"+ sqr); // "приклеили" пробел, "приклеили" результат и вывели в одну строку с результатом
+Console.WriteLine(number + "->"+ sqr); // "приклеили" пробел, "приклеили" результат и вывели в одну строку с результато
